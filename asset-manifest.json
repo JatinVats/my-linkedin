@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-linkedin/static/css/main.ad12c558.css",
+    "main.js": "/my-linkedin/static/js/main.e248d25f.js",
+    "static/js/787.c02ff654.chunk.js": "/my-linkedin/static/js/787.c02ff654.chunk.js",
+    "static/media/loginbackground3.jpg": "/my-linkedin/static/media/loginbackground3.0dc25a25ee832ff635f8.jpg",
+    "index.html": "/my-linkedin/index.html",
+    "main.ad12c558.css.map": "/my-linkedin/static/css/main.ad12c558.css.map",
+    "main.e248d25f.js.map": "/my-linkedin/static/js/main.e248d25f.js.map",
+    "787.c02ff654.chunk.js.map": "/my-linkedin/static/js/787.c02ff654.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad12c558.css",
+    "static/js/main.e248d25f.js"
+  ]
+}
